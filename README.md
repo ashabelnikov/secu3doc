@@ -1,7 +1,7 @@
 # secu3doc
 SECU-3 Project documentation
 
-PCB, Schmatic diagrams, pinouts etc
+PCB, Schematic diagrams, pinouts etc
 
 Contacts:
 Author: Alexey A. Shabelnikov, UA, Kiev
