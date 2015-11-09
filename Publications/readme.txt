@@ -10,6 +10,7 @@ http://mtsc.khpi.edu.ua/article/view/47939
 
 
 2. BRANCH_PROBLEMS_OF_ECOLOGICAL_SAFETY_KhNADU-22-10-2015.pdf, p.55-56
+Шабельников А.А.
 "РАСЧЕТ ВРЕМЕНИ ВПРЫСКА В БЛОКЕ УПРАВЛЕНИЯ ДВИГАТЕЛЕМ ВНУТРЕННЕГО СГОРАНИЯ SECU-3"
 І International scientific and practical conference of students, undergraduates and
 graduate students «BRANCH PROBLEMS OF ECOLOGICAL SAFETY», dedicated to 85-th anniversary of KhNADU
@@ -32,4 +33,13 @@ http://www.ukrnauka.ru/25_ADEN_2015/2015-06-21_A4_tom-13.pdf
 http://www.warmdax.com/Diploms/197934.pdf
 
 
+4. NTU-KhPI_N46-1155-2015.pdf, p.115-121
+Шабельников А.А.
+"Система управления зажиганием для двигателей внутреннего сгорания SECU-3L (Lite)"
+Національного технічного університету "ХПІ". Серія : Нові рішення в сучасних технологіях.
+- № 46 (1155) 2015. - C. 115-121. p-ISSN 2079-5459, e-ISSN 2413-4295
+Shabelnikov A. "Ignition control system for internalcombustion engines SECU-3L (Lite)"
+BULLETIN OF THE NATIONAL TECHNICAL UNIVERSITY “KHARKIV POLYTECHNIC INSTITUTE”
+Collected Works. Series: New solutions in modern technology. - Kharkiv: NTU
+"KhPI" – 2015. – No 46 (1155) – 155 p.
 
