@@ -2,5 +2,5 @@ SECU-3 hardware documentation files (PCB designs)
 This is a part of the SECU-3 project, http://secu-3.org
 
 Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)
-Copyright Alexey A. Shabelnikov 2007-2015, UA, Kiev
+Copyright Alexey A. Shabelnikov 2007-2016, UA, Kiev
 
