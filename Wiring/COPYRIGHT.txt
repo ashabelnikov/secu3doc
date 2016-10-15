@@ -1,4 +1,4 @@
-SECU-3 hardware documentation files (schematic diagrams)
+SECU-3 wiring diagrams
 This is a part of the SECU-3 project, http://secu-3.org
 
 Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)
