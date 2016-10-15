@@ -43,3 +43,18 @@ BULLETIN OF THE NATIONAL TECHNICAL UNIVERSITY УKHARKIV POLYTECHNIC INSTITUTEФ
 Collected Works. Series: New solutions in modern technology. - Kharkiv: NTU
 "KhPI" Ц 2015. Ц No 46 (1155) Ц 155 p.
 
+
+5. MICROPROCESSOR CONTROLLED IGNITION SYSTEM SECU-3 MICRO, p.55-61
+Materia.y XII Mi.dzynarodowej naukowi-praktycznej
+konferencji ЂAktualne problemy nowoczesnych nauk-2016ї Volume 12.
+Techniczne nauki, Budownictwo i architektura, Matematyka :
+Przemy.l. Nauka i studia Ц 112 str.
+http://www.rusnauka.com/21_APSN_2016/Tecnic/4_214692.doc.htm
+
+
+6. SECU-3i PROGRAMMABLE ENGINE MANAGEMENT SYSTEM, p.67-73
+SECU-3i PROGRAMMABLE ENGINE MANAGEMENT SYSTEM / Alexey Shabelnikov // ¬сеукрањнський науково Ц техн≥чний журнал Ђ“ехн≥ка, енергетика, транспорт јѕ ї / –едколег≥€:  алетн≥к √.ћ. (головний редактор) та ≥нш≥.Ц¬≥нниц€, 2016.ЦNo 2 (94) Ц 112 с.
+http://tetapk.vsau.org/index.php?jour=11&lang=1&kind=articles&showyear=2016&shownumber=169&seenumber=2%20(94)
+
+
+Publications' list on the author's site: http://secu-3.org/publications
