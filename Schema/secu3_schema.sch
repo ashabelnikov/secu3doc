@@ -2,7 +2,7 @@ ACCEL_ASCII "Z:\home\alexey\WORK\SECU-3publ\secu3doc_github\secu3doc\Schema\secu
 
 (asciiHeader 
   (asciiVersion 3 0)
-  (timeStamp 2016 2 2 2 10 57)
+  (timeStamp 2016 11 12 15 49 7)
   (program "P-CAD 2002 Schematic" "17.00.50")
   (copyright "Copyright © 1992-2002 Altium Limited")
   (fileAuthor "Alexey A. Shabelnikov")
@@ -5763,10 +5763,10 @@ ACCEL_ASCII "Z:\home\alexey\WORK\SECU-3publ\secu3doc_github\secu3doc\Schema\secu
   (schDesignHeader 
     (workspaceSize 297.0 210.0)
     (gridDfns 
-      (grid "0.127mm")
-      (grid "0.254mm")
-      (grid "0.635mm")
       (grid "1.27mm")
+      (grid "0.635mm")
+      (grid "0.254mm")
+      (grid "0.127mm")
       (grid "2.54mm")
     )
     (designInfo 
@@ -7461,7 +7461,6 @@ ACCEL_ASCII "Z:\home\alexey\WORK\SECU-3publ\secu3doc_github\secu3doc\Schema\secu
     )
     (wire (line (pt 180.34 190.5) (pt 144.78 190.5) (width 0.254) (netNameRef "NET00050") )
     )
-    (text (pt 207.01 190.5) "Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)" (textStyleRef "ttf1.8") (extent 50.60833 2.1375) )
     (text (pt 204.343 197.612) "http://secu-3.org, e-mail: shabelnikov@secu-3.org." (textStyleRef "STc [25]") (extent 56.35571 3.34803) )
     (text (pt 215.265 205.486) "SECU-3 Engine Control Unit" (textStyleRef "SK2.2") (extent 30.79375 2.95) )
     (text (pt 202.946 200.406) "Designed by Alexey A. Shabelnikov (aka STC), UA, Kiev.\r\nCopyright (C) 2007 Alexey A. Shabelnikov." (textStyleRef "SK2.2") (extent 59.05 5.975) )
@@ -7558,6 +7557,7 @@ ACCEL_ASCII "Z:\home\alexey\WORK\SECU-3publ\secu3doc_github\secu3doc\Schema\secu
     )
     (wire (line (pt 120.523 167.64) (pt 154.94 167.64) (width 0.254) (netNameRef "NET00035") )
     )
+    (text (pt 203.2 189.23) "Licensed under the TAPR Open Hardware License (www.tapr.org/OHL) with one exception: \r\nThis work can not be used in commercial purposes without approval of author." (textStyleRef "ttf1.8") (extent 65.16042 3.9375) )
     (drawBorder True)
     (EntireDesign True)
     (isRotated True)

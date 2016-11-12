@@ -2,7 +2,7 @@ ACCEL_ASCII "Z:\home\alexey\WORK\SECU-3publ\secu3doc_github\secu3doc\Schema\secu
 
 (asciiHeader 
   (asciiVersion 3 0)
-  (timeStamp 2016 2 2 2 24 3)
+  (timeStamp 2016 11 12 16 0 38)
   (program "P-CAD 2002 Schematic" "17.00.50")
   (copyright "Copyright © 1992-2002 Altium Limited")
   (fileAuthor "Alexey A. Shabelnikov")
@@ -2814,11 +2814,11 @@ ACCEL_ASCII "Z:\home\alexey\WORK\SECU-3publ\secu3doc_github\secu3doc\Schema\secu
   (schDesignHeader 
     (workspaceSize 279.4 215.9)
     (gridDfns 
-      (grid "0.1mm")
-      (grid "0.127mm")
-      (grid "0.635mm")
-      (grid "1.0mm")
       (grid "1.27mm")
+      (grid "1.0mm")
+      (grid "0.635mm")
+      (grid "0.127mm")
+      (grid "0.1mm")
       (grid "2.54mm")
     )
     (designInfo 
@@ -2995,6 +2995,7 @@ ACCEL_ASCII "Z:\home\alexey\WORK\SECU-3publ\secu3doc_github\secu3doc\Schema\secu
     )
     (junction (pt 165.1 160.02) (netNameRef "NET00007") )
     (junction (pt 185.42 152.4) (netNameRef "NET00001") )
+    (text (pt 183.3 174.6) "L6210" (textStyleRef "SK-1.8") (extent 5.86125 2.43) )
     (wire (line (pt 210.82 142.24) (pt 210.82 147.32) (width 0.254) (netNameRef "NET00017") )
     )
     (wire (line (pt 12.7 187.96) (pt 12.7 182.88) (width 0.254) (netNameRef "NET00006") )
@@ -3292,7 +3293,6 @@ ACCEL_ASCII "Z:\home\alexey\WORK\SECU-3publ\secu3doc_github\secu3doc\Schema\secu
     )
     (symbol (symbolRef "DIODE_ZENER_1") (refDesRef "VD1") (partNum 1) (pt 35.56 180.34) (rotation 90.0) )
     (text (pt 80.9 212.2) "Stepper motor control unit for SECU-3" (textStyleRef "SK2.2") (extent 42.75625 2.95) )
-    (text (pt 79.1 196.6) "Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)" (textStyleRef "ttf1.8 [1]") (extent 50.60833 2.1375) )
     (text (pt 78.6 203.7) "http://secu-3.org, e-mail: shabelnikov@secu-3.org." (textStyleRef "STc [25]") (extent 56.35571 3.34803) )
     (wire (line (pt 185.42 152.4) (pt 210.82 152.4) (width 0.254) (netNameRef "NET00001") )
     )
@@ -3312,6 +3312,7 @@ ACCEL_ASCII "Z:\home\alexey\WORK\SECU-3publ\secu3doc_github\secu3doc\Schema\secu
     (wire (line (pt 149.86 195.58) (pt 12.7 195.58) (width 0.254) (netNameRef "NET00006") )
     )
     (text (pt 13.9 192.0) "Install R1 if you don't want to install L1" (textStyleRef "STC1.5") (extent 22.77083 1.78125) )
+    (text (pt 77.4 195.6) "Licensed under the TAPR Open Hardware License (www.tapr.org/OHL) with one exception:\r\nThis work can not be used in commercial purposes without approval of author." (textStyleRef "ttf1.8 [1]") (extent 64.89583 3.9375) )
     (symbol (symbolRef "L298N_1") (refDesRef "U3") (partNum 1) (pt 129.54 165.1) )
     (drawBorder True)
     (EntireDesign True)
@@ -3339,7 +3340,7 @@ ACCEL_ASCII "Z:\home\alexey\WORK\SECU-3publ\secu3doc_github\secu3doc\Schema\secu
       (isPromptForRel False)
     )
     (ecoState (ecoRecording False))
-    (currentTextStyle "(Default)")
+    (currentTextStyle "SK-1.8")
   )
 
   (reportSettings 

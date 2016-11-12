@@ -1,7 +1,8 @@
 SECU-3 hardware documentation files (schematic diagrams, PCB drawings, bill of materials, gerber files etc)
 This is a part of the SECU-3 project, http://secu-3.org
 
-Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)
+Licensed under the TAPR Open Hardware License (www.tapr.org/OHL) with one exception:
+You can not use this work in commercial porposes without approval of author.
 Read this http://secu-3.org/disclaimer-and-license/?lang=en
-Copyright Alexey A. Shabelnikov 2007-2016, UA, Kiev
+Copyright (C) Alexey A. Shabelnikov 2007-2016, UA, Kiev
 
