@@ -67,5 +67,7 @@ http://tetapk.vsau.org/index.php?jour=11&lang=1&kind=articles&showyear=2016&show
 Т.2: материалы конференции. Тула: Изд-во ТулГУ, 2016. 384 с.
 ISBN 978-5-7679-3618-2
 ISBN 978-5-7679-3622-9 (т.2)
+http://tsu.tula.ru/gs/science/conf/
+
 
 Publications' list on the author's site: http://secu-3.org/publications
