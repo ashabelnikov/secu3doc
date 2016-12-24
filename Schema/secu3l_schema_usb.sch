@@ -1,8 +1,8 @@
-ACCEL_ASCII "Z:\home\alexey\Documents\SECU-3_new_HW\SECU-3L\secu3l_schema_usb.sch"
+ACCEL_ASCII "Z:\home\alexey\WORK\SECU-3publ\secu3doc_github\secu3doc\Schema\secu3l_schema_usb.sch"
 
 (asciiHeader 
   (asciiVersion 3 0)
-  (timeStamp 2016 7 19 20 3 4)
+  (timeStamp 2016 12 24 21 20 25)
   (program "P-CAD 2002 Schematic" "17.00.50")
   (copyright "Copyright © 1992-2002 Altium Limited")
   (fileAuthor "Alexey A. Shabelnikov")
@@ -5554,12 +5554,12 @@ ACCEL_ASCII "Z:\home\alexey\Documents\SECU-3_new_HW\SECU-3L\secu3l_schema_usb.sc
   (schDesignHeader 
     (workspaceSize 297.0 210.0)
     (gridDfns 
-      (grid "0.254mm")
-      (grid "0.127mm")
-      (grid "0.1mm")
-      (grid "0.635mm")
-      (grid "1.27mm")
       (grid "0.01mm")
+      (grid "1.27mm")
+      (grid "0.635mm")
+      (grid "0.1mm")
+      (grid "0.127mm")
+      (grid "0.254mm")
       (grid "2.54mm")
     )
     (designInfo 
@@ -7156,7 +7156,6 @@ ACCEL_ASCII "Z:\home\alexey\Documents\SECU-3_new_HW\SECU-3L\secu3l_schema_usb.sc
     (wire (line (pt 136.271 161.798) (pt 117.221 161.798) (width 0.254) (netNameRef "NET00033") )
     )
     (text (pt 19.558 176.022) "Licensed under the TAPR Open Hardware License (www.tapr.org/OHL) with one exception:\r\nThis work can't be used in commercial purposes without written approval of author." (textStyleRef "ttf1.8") (extent 64.89583 3.9375) )
-    (text (pt 19.431 186.055) "SECU-3L Ignition controller (USB version), software compatible with SECU-3T" (textStyleRef "SK2.2") (extent 84.625 2.95) )
     (text (pt 170.307 16.51) "Grounds marked as \"dirty\" must be connected \r\nto 2 and 9 pins of external connector" (textStyleRef "ttf1.8") (extent 33.41042 3.9375) )
     (symbol (symbolRef "SGND_1") (refDesRef "PWR60") (partNum 1) (pt 249.301 21.463) )
     (wire (line (pt 169.291 22.098) (pt 216.281 22.098) (width 0.254) (netNameRef "GND") )
@@ -7226,6 +7225,7 @@ ACCEL_ASCII "Z:\home\alexey\Documents\SECU-3_new_HW\SECU-3L\secu3l_schema_usb.sc
     )
     (text (pt 87.757 68.58) "*In board rev3 IRFL9014\r\nmust be used, or you should \r\nmake changes in PCB" (textStyleRef "ttf1.8") (extent 20.71042 5.7375) )
     (text (pt 121.793 188.341) "programming \r\nconnector" (textStyleRef "STC2") (extent 11.22292 4.375) )
+    (text (pt 19.431 188.214) "SECU-3L Ignition controller (USB version), software compatible with SECU-3T" (textStyleRef "SK2.2") (extent 84.625 2.95) )
     (text (pt 170.434 14.605) "VT4 and VT6 must be placed onto a heat sink" (textStyleRef "ttf1.8") (extent 32.88125 2.1375) )
     (symbol (symbolRef "C-NON-EL_1") (refDesRef "C26") (partNum 1) (pt 249.301 24.003) (rotation 90.0) 
       (attr "Type" "" (rotation 90.0) (textStyleRef "(Default)") )
@@ -7267,6 +7267,7 @@ ACCEL_ASCII "Z:\home\alexey\Documents\SECU-3_new_HW\SECU-3L\secu3l_schema_usb.sc
     (port (pt 217.297 113.538) (portType RightAngle_Sgl_Horz) (netNameRef "TEMP") (rotation 180.0) )
     (symbol (symbolRef "CP2102_1") (refDesRef "U1") (partNum 1) (pt 32.639 94.869) )
     (symbol (symbolRef "ADUM1201_1") (refDesRef "U3") (partNum 1) (pt 78.105 119.126) )
+    (text (pt 19.304 182.753) "Designed and developed by Alexey A. Shabelnikov (aka STC), UA, Kiev,\r\nCopyright (C) Alexey A. Shabelnikov 2007-2015" (textStyleRef "SK2.2") (extent 75.20625 5.975) )
     (symbol (symbolRef "RESISTOR_0.125W_1") (refDesRef "R17") (partNum 1) (pt 156.591 94.615) (rotation 90.0) 
       (attr "Type" "" (rotation 90.0) (textStyleRef "(Default)") )
       (attr "RefDes" "" (pt 3.175 3.81) (rotation 180.0) (isVisible True) (justify LowerCenter) (textStyleRef "SK1.3") )
@@ -7295,7 +7296,6 @@ ACCEL_ASCII "Z:\home\alexey\Documents\SECU-3_new_HW\SECU-3L\secu3l_schema_usb.sc
     (text (pt 19.304 179.578) "http://secu-3.org, e-mail: shabelnikov@secu-3.org." (textStyleRef "STc [25]") (extent 56.35571 3.34803) )
     (text (pt 132.08 15.367) "MOLEX Mini-Fit RTC (MF-2x14 MRA)" (textStyleRef "STC2") (extent 30.00833 2.375) )
     (symbol (symbolRef "CONNECT_14PIN_M_1") (refDesRef "J5") (partNum 1) (pt 130.429 32.258) (rotation 90.0) )
-    (text (pt 19.177 183.007) "Designed and developed by Alexey A. Shabelnikov (aka STC), UA, Kiev, (C) 2007" (textStyleRef "SK2.2") (extent 85.8625 2.95) )
     (symbol (symbolRef "ATMEGA16-TQFP-44_1") (refDesRef "U4") (partNum 1) (pt 136.271 166.878) 
       (attr "Description" "AVR 8 bit microcontroller" (pt 5.08 10.16) (textStyleRef "(Default)") (constraintUnits string) )
     )
