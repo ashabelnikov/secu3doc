@@ -1,0 +1,7 @@
+SECU-LZID hardware documentation files
+This is a part of the SECU-3 project, http://secu-3.org
+
+You can not use this work in commercial porposes without approval of author.
+Copyright (C) Alexey A. Shabelnikov 2007-2018, UA, Kiev
+All rights reserved. For personal use only.
+
